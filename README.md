@@ -2,7 +2,7 @@
 
 This project processes financial transaction data using **PySpark**, cleans and enriches it, and prepares a dataset for visualization in **Power BI**.  
 It simulates missing amounts, calculates KPIs (cost, profit, profit margin), assigns risk segments, and outputs a clean CSV ready for business intelligence dashboards.
-![Static image of Power BI Dashboard](image.png)
+![Static image of Power BI Dashboard](Dashboard_image.png)
 
 ## Features
 - Automated cleaning and enrichment of messy financial data.
