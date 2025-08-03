@@ -17,7 +17,8 @@ It simulates missing amounts, calculates KPIs (cost, profit, profit margin), ass
 ├── Financial_KPI_Reporting.ipynb   # Main notebook
 ├── README.md                       # Project documentation
 ├── requirements.txt                # Python dependencies
-└── Dashboard_demo                  # Power BI dashboard
+├── Dashboard_image.png             # Static Power BI Dashboard image
+└── Dashboard_demo                  # Power BI dashboard demo
 ```
 
 ## Installation & Setup
@@ -53,11 +54,12 @@ The prepared dataset can be visualized in Power BI to create a **Financial Perfo
 - Transaction-Level Drilldown
 
 ## Technologies Used
-- Python 3.x
+- Python 3.10
 - PySpark
 - Pandas
 - Jupyter Notebook
 - Power BI
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Dataset & License
+This project used "Financial Transactions Dataset: Analytics" dataset from Kaggle, licensed under the Apache 2.0
+Dataset link: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data
