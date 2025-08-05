@@ -18,7 +18,7 @@ It simulates missing amounts, calculates KPIs (cost, profit, profit margin), ass
 ├── README.md                       # Project documentation
 ├── requirements.txt                # Python dependencies
 ├── Dashboard_image.png             # Static Power BI Dashboard image
-└── Dashboard_demo                  # Power BI dashboard demo
+└── Dashboard_demo.md                # Power BI dashboard demo
 ```
 
 ## Installation & Setup
